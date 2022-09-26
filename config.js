@@ -6,16 +6,16 @@ import moment from 'moment-timezone'
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['6285380166282', '️One', true],
-  ['6285380166282', '️Two', true],
-  ['6285380166282', '️Three', true],
-  ['6285380166282', '️Four', true],
-  ['6285380166282', '️Five', true],
-  ['6285380166282', '️Six', true],
-  ['6285380166282', '️Seven', true],
-  ['6285380166282', '️Eight', true],
-  ['6285380166282', '️Nine', true],
-  ['6285380166282', '️Teen', true]
+  ['6289510402269', '️One', true],
+  ['6289510402269', '️Two', true],
+  ['6289510402269', '️Three', true],
+  ['6289510402269', '️Four', true],
+  ['6289510402269', '️Five', true],
+  ['6289510402269', '️Six', true],
+  ['6289510402269', '️Seven', true],
+  ['6289510402269', '️Eight', true],
+  ['6289510402269', '️Nine', true],
+  ['6289510402269', '️Teen', true]
 ]
 global.mods = []
 global.prems = []
@@ -84,15 +84,15 @@ global.xckey = '7iyNa0qA'
 */
 
 /*Number*/
-global.nomorbot = '6285295374964'
-global.nomorown = '6285380166282'
-global.namebot = 'Mexxy Botz 🔥'
+global.nomorbot = '6282319517960'
+global.nomorown = '6289510402269'
+global.namebot = 'Atsair Botz 🔥'
 global.nameown = '「 Oᴡɴᴇʀ 」'
 
 /*Watermark*/
-global.wm = '                「 Mexxy Botz 🔥  」'
+global.wm = '                「 Atsair Botz 🔥  」'
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Mexxy Botz 🔥'
+global.wm3 = '⫹⫺ Atsair Botz 🔥'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
